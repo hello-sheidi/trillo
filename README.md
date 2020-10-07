@@ -4,6 +4,8 @@
 
 ## Student: Joanna Depowska
 
+#### [--- Live Demo ----](https://hello-sheidi.github.io/trillo/)
+
 ---
 
 #### Tools used in this project:
@@ -15,4 +17,5 @@
 - HTML entities
 - BEM (Block Element Modifier)
 - Animations and transitions
+- Media Queries
 - Testing for Browser Support with @supports
